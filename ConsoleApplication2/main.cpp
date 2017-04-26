@@ -39,11 +39,13 @@ void main(){
 	Lista.print();
 	cout<< "El tamanho es: "<<Lista.get_size()<<" y la capacidad actual: "<< Lista.get_capacity() << endl;
 	Punto::times_created();
-	// a VER
 	decirhola();
 	// HE PUESTO HOLA
+	// a VER
 	// A VER EL MERGE
 	//DALE
+	//nuevo
+	//joder
 	
 	//PARA VER SI HACE MERGE CON LA RAMA
 }
