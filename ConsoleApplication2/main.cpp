@@ -27,7 +27,7 @@ void main(){
 	Lista.push_break(f);
 
 	decirhola();
-	deciradios()
+	deciradios();
 	cout << "Insertando puntos..." << endl;
 	cout << "Lista tras insertar" << endl;
 	Lista.print();
