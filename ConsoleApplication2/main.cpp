@@ -1,6 +1,8 @@
 #include <iostream>
 #include "Clases.h"
-
+#include "funciones1.cpp"
+using namespace std;
+void decirhola(){cout << "hola" << endl;}
 void main(){
 	Punto A(0, 10.0);
 	lista_puntos Lista(3, A);
@@ -23,6 +25,7 @@ void main(){
 	Lista.push_break(e);
 	Lista.push_break(f);
 
+	decirhola();
 
 	cout << "Insertando puntos..." << endl;
 	cout << "Lista tras insertar" << endl;
