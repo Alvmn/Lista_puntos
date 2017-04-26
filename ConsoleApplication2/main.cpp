@@ -44,8 +44,6 @@ void main(){
 	decirhola();
 	//puse adios
 	// HE PUESTO HOLA
-	// a VER
-	// A VER EL MERGE
 	//DALE
 	//nuevo
 	// quito mierda
