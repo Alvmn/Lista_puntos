@@ -41,6 +41,7 @@ void main(){
 	Punto::times_created();
 	decirhola();
 	//QUI DISIS
+	//QUITE HOLA
 	// HE PUESTO HOLA
 	// a VER
 	// A VER EL MERGE
