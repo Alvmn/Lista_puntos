@@ -25,7 +25,7 @@ void main(){
 	Lista.push_break(d);
 	Lista.push_break(e);
 	Lista.push_break(f);
-
+	// A VER EL MERGE QUE YO LO VEA
 	decirhola();
 	deciradios();
 	cout << "Insertando puntos..." << endl;
@@ -49,4 +49,6 @@ void main(){
 	//DALE
 	//nuevo
 	// quito mierda
+
+	//A VER COHONE
 }
